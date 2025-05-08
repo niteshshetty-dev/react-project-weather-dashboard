@@ -13,3 +13,8 @@ A simple weather application built with React and OpenWeatherMap API.
 
 - React
 - CSS
+
+##Live Demo
+https://react-project-weather-dashboard.vercel.app/
+
+##Sample city 1. New York 2. London 3. Tokyo 4. Bangalore
