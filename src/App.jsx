@@ -1,7 +1,7 @@
 import { useState } from "react";
 import "./App.css";
 import Spinner from "./components/Spinner";
-import SearchForm from "./components/searchForm";
+import SearchForm from "./components/SearchForm";
 import WeatherCard from "./components/WeatherCard";
 import ErrorBlock from "./components/ErrorBlock";
 
