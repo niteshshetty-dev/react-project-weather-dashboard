@@ -56,6 +56,8 @@ function App() {
   return (
     <>
       <div className="container">
+        <h1 className="heading">Wheather App</h1>
+        <p className="subheading">Real-time weather info at your fingertips</p>
         <SearchForm
           cityName={cityName}
           handleCityName={handleCityName}
